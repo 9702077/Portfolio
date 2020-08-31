@@ -1,4 +1,7 @@
 ## Welcome to Keegan's Portfolio
+
+![color swatch](https://github.com/9702077/Portfolio/blob/gh-pages/Images/Screenshot%202020-08-31%20at%201.21.35%20PM.png?raw=true)
+
 You can use the [editor on GitHub](https://github.com/9702077/Portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
